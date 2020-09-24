@@ -30,6 +30,7 @@ public class RegEx {
         System.out.println(simple4.matches(matcher));
         System.out.println(simple5.matches(matcher));
         System.out.println("\r");
+
     }
 
 }
